@@ -219,10 +219,10 @@ export default function App() {
               Yay!
             </h2>
             <p className="text-xl text-gray-700 font-semibold">
-              Abia aștept!
+              Abia aștept nigga!
             </p>
             <p className="text-gray-600 mt-4 text-sm">
-              M-ai făcut cel mai fericit! ❤️
+              M-ai făcut cel mai fericit ❤️
             </p>
 
             {/* Restart Button */}
